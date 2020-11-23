@@ -20,15 +20,15 @@ npm run build
 npm run lint
 ```
 
-###Sass loader
+### Sass loader
 ```
 npm install sass-loader sass webpack --save-dev
 ```
 
-###node sass
+### node sass
 ```
 npm install node-sass
 ```
-####Gracias :)
+#### Gracias :)
 
 
